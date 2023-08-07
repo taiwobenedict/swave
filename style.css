@@ -211,9 +211,9 @@ header {
 }
 
 /* HERO */
-#hero {
-  min-height: 100vh;
-}
+/* #hero {
+
+} */
 
 .hero-image {
   max-width: 314.536px;
