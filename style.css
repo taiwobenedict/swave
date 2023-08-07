@@ -211,9 +211,9 @@ header {
 }
 
 /* HERO */
-/* #hero {
-
-} */
+#hero {
+  margin-bottom: 6rem;
+}
 
 .hero-image {
   max-width: 314.536px;
@@ -336,7 +336,6 @@ header {
     max-width: 250px;
     margin-right: auto;
     margin-left: auto;
-    margin-bottom: 3rem;
   }
  
 
